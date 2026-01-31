@@ -1,45 +1,43 @@
 # Ted Herrera — Customer Success Blueprint
 
-I build revenue systems through Customer Success.
-
-By combining segmentation, CSOps intelligence, and lifecycle strategy, I design operating models that reduce churn, drive expansion, and give teams real time clarity on where to act. Retention is not a reaction — it is a system. When built correctly, it scales outcomes without losing visibility or accountability.
-
-At Best Version Media, I transformed a support function into a predictive growth engine. I built health scoring models, segmentation logic, and weekly coaching workflows that power retention and upsell strategy across a portfolio of 2500 active advertisers and six U.S. regions. These tools now guide how Sales, Market Support, and CS prioritize client outcomes and publisher performance.
-
-My background spans SaaS, digital media, and MarTech. Across every industry, the goal remains the same — build intelligent systems that align revenue teams and make growth predictable.
+I design Customer Success operating systems that turn retention into a predictable revenue outcome.
+My work sits at the intersection of segmentation, CSOps intelligence, and lifecycle strategy. I build systems that surface risk early, clarify where teams should act, and align Customer Success, Sales, and Product around a single view of revenue health. Retention is not a reaction. It is a system. When built correctly, it scales outcomes without sacrificing accountability or visibility.
+At Best Version Media, I transformed Customer Success from a reactive support function into a predictive growth engine. I architected health scoring models, risk segmentation, and weekly execution rhythms that now govern retention and upsell strategy across a portfolio of 2,500 active advertisers spanning six U.S. regions. These systems directly inform renewal prioritization, publisher coaching, and cross functional revenue planning.
+My background spans SaaS, digital media, and MarTech. Across every environment, the objective remains the same: build intelligent, repeatable systems that allow revenue teams to operate with confidence, precision, and foresight.
 
 ---
 
 ## 1. Core Focus Areas
 
-- Customer Success Operations  
-- Retention and Churn Mitigation Strategy  
-- Revenue Expansion and Upsell Enablement  
-- Predictive Health Scoring and Segmentation  
-- Strategic Business Reviews  
-- Cross Functional Coaching (Sales, Market Support, Product)  
-- Voice of Customer Integration  
+Customer Success Operations and Lifecycle Governance
+Retention and Churn Mitigation Strategy
+Revenue Expansion and Upsell Enablement
+Predictive Health Scoring and Segmentation
+Strategic Business Reviews and Executive Readouts
+Cross Functional Enablement and Coaching
+Voice of Customer Integration
 
 ---
 
 ## 2. CSOps System: Retention Intelligence in Motion
 
-At BVM, I designed an **AI driven CSOps platform** that connects client behavior with revenue strategy:
-
-- Created a Health Scoring System with weighted inputs across renewal status, product mix, risk ratio, and engagement patterns  
-- Built real time Segmentation Models for Renewable, Declined, and Print Only Upsell accounts  
-- Architected the **Bruno x Hank System** — an AI driven dashboard with live reporting across Book of Business, risk, digital share, and SBR performance  
-- Enabled weekly retention reviews by rep and region, replacing guesswork with measurable action  
-- Reduced decline rates by 14 percent and improved upsell visibility across all client tiers  
+At BVM, I designed an AI driven CSOps platform that connects customer behavior directly to revenue execution:
+Built a weighted Health Scoring Framework across renewal status, product mix, engagement, and risk indicators
+Developed real time segmentation models for Renewable, Declined, and Upsell ready accounts
+Architected the Bruno x Hank system, an AI powered dashboard providing live visibility into Book of Business, risk ratio, digital mix, and renewal pacing
+Enabled weekly retention and coaching cadences by rep and region, replacing intuition with measurable action
+Reduced decline rates by 14% while improving upsell timing and visibility across all customer tiers
 
 ---
 
-## 3. Revenue Retention and Growth Strategy
+## 3. Measurable Impact
 
-- Increased Net Revenue Retention by 15 percent through renewal forecasting and lifecycle mapping  
-- Deployed Decline Drip Reactivation sequences that reclaimed over 40 at risk accounts  
-- Launched a Digital Boost Program that expanded Print Only advertisers into digital bundles and lifted multi product adoption by 22 percent  
-- Built cross team playbooks that prioritize upsell timing and renewal readiness  
+Retention Rate: 18% lift through renewal governance and lifecycle discipline
+Decline Rate: 14% reduction via predictive segmentation and proactive intervention
+Expansion Revenue: $3M+ generated through bundled digital growth programs
+Net Revenue Retention: 15% lift driven by renewal forecasting and value sequencing
+CS Team Output: 22% increase through system based enablement and execution rhythms
+Portfolio Scope: ~$3.7M ARR across 2,500 SMB advertisers and six U.S. regions
 
 ---
 
@@ -74,14 +72,15 @@ Created rep level retention reviews based on live risk data, campaign mix, and r
 
 ## 7. Measurable Impact
 
-| Metric | Result | Impact |  
-|--------|--------|--------|  
-| Retention Rate | 18 percent lift | Strengthened renewal stability and client longevity |  
-| Decline Rate | 14 percent reduction | Predictive segmentation and proactive outreach |  
-| Expansion Revenue | Over 3 million | Increased ARR through digital bundling and upsells |  
-| Net Revenue Retention | 15 percent lift | Forecastable growth across the portfolio |  
-| CS Team Output | 22 percent increase | System based enablement and performance routines |  
-| Portfolio | 3.7 million ARR | Six region SMB coverage across 2500 clients |  
+| Metric                | Result            | Impact                                              |
+|-----------------------|-------------------|-----------------------------------------------------|
+| Retention Rate        | 18% lift          | Increased renewal stability and customer longevity  |
+| Decline Rate          | 14% reduction     | Predictive segmentation and proactive intervention  |
+| Expansion Revenue     | $3M+              | ARR growth through digital bundling and upsells     |
+| Net Revenue Retention | 15% lift          | Predictable portfolio growth                        |
+| CS Team Output        | 22% increase      | System driven enablement and execution cadence      |
+| Portfolio Scope       | $36M BoB          | 3,279 active accounts across six regions            |
+
 
 ---
 
