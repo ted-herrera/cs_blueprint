@@ -1,9 +1,12 @@
 # Ted Herrera — Customer Success Blueprint
 
-I design Customer Success operating systems that turn retention into a predictable revenue outcome.
-My work sits at the intersection of segmentation, CSOps intelligence, and lifecycle strategy. I build systems that surface risk early, clarify where teams should act, and align Customer Success, Sales, and Product around a single view of revenue health. Retention is not a reaction. It is a system. When built correctly, it scales outcomes without sacrificing accountability or visibility.
-At Best Version Media, I transformed Customer Success from a reactive support function into a predictive growth engine. I architected health scoring models, risk segmentation, and weekly execution rhythms that now govern retention and upsell strategy across a portfolio of 2,500 active advertisers spanning six U.S. regions. These systems directly inform renewal prioritization, publisher coaching, and cross functional revenue planning.
-My background spans SaaS, digital media, and MarTech. Across every environment, the objective remains the same: build intelligent, repeatable systems that allow revenue teams to operate with confidence, precision, and foresight.
+This is not a portfolio. It is a working operating system.
+Most CS organizations find out they have a problem when the renewal conversation goes sideways. By then the system has already failed. The account that churns was almost never a surprise to the people closest to it. It was a surprise to the operating model because the operating model was never built to see it coming.
+I build the system that sees it coming.
+At Best Version Media I took a $36M national portfolio of 3,279 active advertisers across six U.S. regions and replaced reactive save behavior with a predictive operating system. Health scoring tied to real behavior. Risk segmentation that triggers action before urgency sets in. Renewal execution that starts 90 to 120 days out. CSOps architecture that gives leadership actual visibility instead of anecdotal confidence.
+The result: 95% gross retention, an 18.9% reduction in year-over-year revenue decline, and a CS function that now runs on infrastructure instead of effort.
+My background spans SaaS, digital media, and MarTech. Across every environment the objective is the same: build intelligent, repeatable systems that allow revenue teams to operate with confidence, precision, and foresight.
+Everything documented here was built in production and proven in the numbers.
 
 ---
 
@@ -21,52 +24,47 @@ Voice of Customer Integration
 
 ## 2. CSOps System: Retention Intelligence in Motion
 
-At BVM, I designed an AI driven CSOps platform that connects customer behavior directly to revenue execution:
-Built a weighted Health Scoring Framework across renewal status, product mix, engagement, and risk indicators
-Developed real time segmentation models for Renewable, Declined, and Upsell ready accounts
-Architected the Bruno x Hank system, an AI powered dashboard providing live visibility into Book of Business, risk ratio, digital mix, and renewal pacing
-Enabled weekly retention and coaching cadences by rep and region, replacing intuition with measurable action
-Reduced decline rates by 14% while improving upsell timing and visibility across all customer tiers
+At BVM I designed an AI driven CSOps platform that connects customer behavior directly to revenue execution.
+Built a weighted health scoring framework across renewal status, product mix, engagement signals, and risk indicators. Developed real time segmentation models for renewable, declined, and upsell ready accounts. Architected Bruno x Hank, an AI powered dashboard providing live visibility into Book of Business, risk ratio, digital mix, and renewal pacing. Enabled weekly retention and coaching cadences by rep and region, replacing intuition with measurable governed action.
+Result: 14% reduction in decline rates with improved upsell timing and visibility across all customer tiers.
 
 ---
 
 ## 3. Measurable Impact
 
 Retention Rate: 18% lift through renewal governance and lifecycle discipline
-Decline Rate: 14% reduction via predictive segmentation and proactive intervention
+Decline Rate: 14% reduction through predictive segmentation and proactive intervention
 Expansion Revenue: $3M+ generated through bundled digital growth programs
 Net Revenue Retention: 15% lift driven by renewal forecasting and value sequencing
-CS Team Output: 22% increase through system based enablement and execution rhythms
-Portfolio Scope: ~$3.7M ARR across 2,500 SMB advertisers and six U.S. regions
+CS Team Output: 22% increase through system-based enablement and execution rhythms
+Portfolio Scope: $36M book of business across 3,279 active accounts and six U.S. regions
 
 ---
 
 ## 4. Enablement and Lifecycle Systems
 
-- Developed a playbook suite for Renewals, Success Planning, Escalation, and Strategic Reviews  
-- Scaled enablement across 40 plus field reps through templated workflows and publisher coaching  
-- Lifted CS productivity by 22 percent through shared systems, documentation, and retention rituals  
+Developed a playbook suite covering renewals, success planning, escalation governance, and strategic business reviews
+Scaled enablement across 40+ field reps through templated workflows and publisher coaching
+Lifted CS productivity 22% through shared systems, documentation, and execution standards
 
 ---
 
 ## 5. Voice of Customer and Feedback Loops
 
-- Built a Voice of Customer program used to inform product strategy and campaign creative  
-- Drove a 25 percent increase in digital product adoption through structured feedback integration  
-- Aligned VOC data with onboarding, renewals, and SBRs for closed loop lifecycle improvement  
+Built a Voice of Customer program that directly informed product strategy and campaign creative
+Drove 25% increase in digital product adoption through structured feedback integration
+Aligned VOC data with onboarding, renewals, and SBRs to close the lifecycle feedback loop 
 
 ---
 
 ## 6. Featured Projects
 
-**Bruno x Hank — AI Driven CSOps Platform**  
-AI powered system combining Book of Business, Risk Ratio, Digital Mix, and renewal status. Used weekly to drive publisher coaching, segmentation strategy, and retention execution across CS, Sales, and Market Support.
-
-**Digital Boost Growth Program**  
-Print to digital expansion initiative that increased cross product adoption by 22 percent and drove over 3 million in upsell revenue.
-
-**Segmented Retention Coaching**  
-Created rep level retention reviews based on live risk data, campaign mix, and renewal pacing. Now used across all regions to guide CS and Market Support.
+**Bruno x Hank — AI Driven CSOps Platform**
+AI powered system combining Book of Business, risk ratio, digital mix, and renewal status. Used weekly to govern publisher coaching, segmentation strategy, and retention execution across CS, Sales, and Market Support.
+Digital Boost Growth Program
+Print to digital expansion initiative that increased cross-product adoption 22% and generated $3M+ in upsell revenue through structured bundling and lifecycle sequencing.
+Segmented Retention Coaching
+Rep-level retention reviews built on live risk data, campaign mix, and renewal pacing. Now operating across all six regions as the execution standard for CS and Market Support.
 
 ---
 
@@ -86,22 +84,17 @@ Created rep level retention reviews based on live risk data, campaign mix, and r
 
 ## 8. Tools and Platforms
 
-Gainsight • HubSpot • Salesforce • Close CRM • Tableau • Zonka • Google Workspace • Excel • Monday.com • Slack • Canva  
+Gainsight · ChurnZero · Vitally · PlanHat · Salesforce · HubSpot · Close · Tableau · Zonka · Google Workspace · Monday.com · Slack
 
 ---
 
-## 9. Philosophy
-
-Retention is a strategy, not a result.
-
-Customer Success should never operate in the dark. It should surface risk before it becomes churn. It should forecast growth before it happens. And it should align every team around a shared view of where the customer is — and where they are going.
-
+## 9.Retention is a strategy, not a result.
+Customer Success should never operate in the dark. It should surface risk before it becomes churn. It should forecast growth before it happens. And it should align every team around a shared view of where the customer is and where they are going.
 I build systems that make that happen.
 
 ---
 
 ## 10. Let’s Connect
 
-If you are building CSOps, scaling your Customer Success function, or rethinking how retention drives revenue, I am always open to connect.  
-📫 [LinkedIn](https://www.linkedin.com/in/ted-joaquin-herrera-customer-success/)  
-📧 **tedjoaquinherrera@proton.me**
+If you are building CSOps, scaling your Customer Success function, or rethinking how retention drives revenue, I am always open to connect.
+📧 tedherrera@tuta.io
