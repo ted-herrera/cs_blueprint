@@ -7,6 +7,7 @@ At Best Version Media I took a $36M national portfolio of 3,279 active advertise
 The result: 95% gross retention, an 18.9% reduction in year-over-year revenue decline, and a CS function that now runs on infrastructure instead of effort.
 My background spans SaaS, digital media, and MarTech. Across every environment the objective is the same: build intelligent, repeatable systems that allow revenue teams to operate with confidence, precision, and foresight.
 Everything documented here was built in production and proven in the numbers.
+Learn More Here https://notebooklm.google.com/notebook/241747fe-6996-42a5-8dc8-e28287e664a7
 
 ---
 
